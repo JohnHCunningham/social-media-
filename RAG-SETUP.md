@@ -66,8 +66,8 @@ We use OpenAI for generating embeddings (vector representations of text):
 Open `.env.local` and replace the placeholders:
 
 ```env
-VITE_CLAUDE_API_KEY=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
-VITE_KIE_API_KEY=34a8d7357ad1dcc7b2ea5aa8b83fccd8
+VITE_CLAUDE_API_KEY=your_actual_claude_api_key_here
+VITE_KIE_API_KEY=your_actual_kie_api_key_here
 VITE_SUPABASE_URL=https://xxxxx.supabase.co
 VITE_SUPABASE_ANON_KEY=your_actual_anon_key_here
 VITE_OPENAI_API_KEY=sk-your_actual_openai_key_here
