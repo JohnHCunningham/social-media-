@@ -9,9 +9,5 @@
       "memory": 1024,
       "maxDuration": 30
     }
-  },
-  "env": {
-    "VITE_SUPABASE_URL": "@supabase-url",
-    "VITE_SUPABASE_ANON_KEY": "@supabase-anon-key"
   }
 }
