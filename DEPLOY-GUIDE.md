@@ -90,10 +90,10 @@ git push -u origin main
 
 | Key | Value | Environment |
 |-----|-------|-------------|
-| `CLAUDE_API_KEY` | `sk-ant-api03-f_M8OTTzA7x...` | Production, Preview, Development |
-| `OPENAI_API_KEY` | `sk-proj-Lut6t-Wu9MB...` | Production, Preview, Development |
-| `VITE_SUPABASE_URL` | `https://hmfljxloykeavqhmqrml.supabase.co` | Production, Preview, Development |
-| `VITE_SUPABASE_ANON_KEY` | `sb_publishable_U44L68bGpj...` | Production, Preview, Development |
+| `CLAUDE_API_KEY` | `your_claude_api_key_here` | Production, Preview, Development |
+| `OPENAI_API_KEY` | `your_openai_api_key_here` | Production, Preview, Development |
+| `VITE_SUPABASE_URL` | `https://your-project.supabase.co` | Production, Preview, Development |
+| `VITE_SUPABASE_ANON_KEY` | `your_supabase_anon_key_here` | Production, Preview, Development |
 
 **For each variable:**
 1. Click **"Add New"**
